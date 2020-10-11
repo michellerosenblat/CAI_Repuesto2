@@ -1,0 +1,6 @@
+C:\Users\Michu\Documents\GitHub\CAI_Repuesto2\CAI_Repuesto2\Repuesto_Modelo\bin\Debug\Repuesto_Modelo.dll
+C:\Users\Michu\Documents\GitHub\CAI_Repuesto2\CAI_Repuesto2\Repuesto_Modelo\bin\Debug\Repuesto_Modelo.pdb
+C:\Users\Michu\Documents\GitHub\CAI_Repuesto2\CAI_Repuesto2\Repuesto_Modelo\obj\Debug\Repuesto_Modelo.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAI_Repuesto2\CAI_Repuesto2\Repuesto_Modelo\obj\Debug\Repuesto_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAI_Repuesto2\CAI_Repuesto2\Repuesto_Modelo\obj\Debug\Repuesto_Modelo.dll
+C:\Users\Michu\Documents\GitHub\CAI_Repuesto2\CAI_Repuesto2\Repuesto_Modelo\obj\Debug\Repuesto_Modelo.pdb

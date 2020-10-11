@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI_Repuesto2", "CAI_Repuesto2\CAI_Repuesto2.csproj", "{7919C122-1C92-44F9-98A3-23437A7F562F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repuesto_Modelo", "Repuesto_Modelo\Repuesto_Modelo.csproj", "{093488DF-DF4D-4ADB-B6CB-6DE8DE8221D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7919C122-1C92-44F9-98A3-23437A7F562F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7919C122-1C92-44F9-98A3-23437A7F562F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7919C122-1C92-44F9-98A3-23437A7F562F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7919C122-1C92-44F9-98A3-23437A7F562F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093488DF-DF4D-4ADB-B6CB-6DE8DE8221D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093488DF-DF4D-4ADB-B6CB-6DE8DE8221D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093488DF-DF4D-4ADB-B6CB-6DE8DE8221D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093488DF-DF4D-4ADB-B6CB-6DE8DE8221D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F639CA-CB19-4860-B5F4-37A0C4C7D9CF}
+	EndGlobalSection
+EndGlobal
